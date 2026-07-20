@@ -5,5 +5,8 @@ This is a wiki written and maintained by people from the [Monster Hunter Modding
 
 <a href="https://discord.gg/gJwMdhK">Monster Hunter Modding Discord</a>
 
+<a href="https://mhwildsguides.xyz/">MH Wilds Guides — player-facing tier lists, monster & armor guides</a>
+
+
 ### File credits
 * `MHWsDEMO.list`: Ando, dtlnor
